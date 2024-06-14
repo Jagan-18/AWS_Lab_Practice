@@ -1,0 +1,12 @@
+Configuring a Nerflix-website With S3 And CloudFront:
+------------------------------------------------------
+Amazon S3:
+********
+==> Simple Storage Service is a scalable, Highly Available , Cost effective and secure cloud storage service provided by Amazon Web Services (AWS). 
+==> It allows you to store and retrieve any amount of data from anywhere on the web.
+
+AWS CloudFront:
+************
+==> Amazon CloudFront is a content delivery network (CDN) service by AWS, speeding up the distribution of web content to users globally. 
+==> It caches content at edge locations worldwide, reducing latency and improving performance.
+==> With robust security features, automatic scalability, and detailed analytics, CloudFront enhances the reliability and efficiency of content delivery for businesses of all sizes.
